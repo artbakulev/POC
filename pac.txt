@@ -1,1 +1,59 @@
-W0F1dG9Qcm94eSAwLjIuOV0KISBPcmlnaW5hbDoKISBodHRwczovL2dpdGh1Yi5jb20vZ2Z3bGlzdC9nZndsaXN0CgohLS0gfHwg0LjQu9C4IC4gLSDQutC+INCy0YHQtdC8INC/0L7QtNC00L7QvNC10L3QsNC8CiEtLSB8IC0g0YLQvtC70YzQutC+INC6INGD0LrQsNC30LDQvdC90L7QvNGDINC00L7QvNC10L3RgwohLS0gQEAgLSDQuNGB0LrQu9GO0YfQtdC90LjQtQoKISEtLS1EZWJ1Zy0tLQp8fG15aXAuY29tCgohIS0tLVNvY2lhbHMtLS0KfHxhY2NvdW50a2l0LmNvbQpjZG5pbnN0YWdyYW0uY29tCnx8Y2RuaW5zdGFncmFtLmNvbQp8fGY4LmNvbQp8fGZhY2Vib29rLmJyCi5mYWNlYm9vay5jb20KfHxmYWNlYm9vay5jb20KQEB8fHY2LmZhY2Vib29rLmNvbQp8fGZhY2Vib29rLmRlc2lnbgp8fGNvbm5lY3QuZmFjZWJvb2submV0Cnx8ZmFjZWJvb2suaHUKfHxmYWNlYm9vay5pbgp8fGZhY2Vib29rLm5sCnx8ZmFjZWJvb2suc2UKfHxmYWNlYm9va21haWwuY29tCnx8ZmIuY29tCnx8ZmIubWUKfHxmYi53YXRjaAp8fGZiY2RuLm5ldAp8fGZic2J4LmNvbQp8fGZiYWRkaW5zLmNvbQp8fGZid29ya21haWwuY29tCi5pbnN0YWdyYW0uY29tCnx8aW5zdGFncmFtLmNvbQp8fG0ubWUKfHxtZXNzZW5nZXIuY29tCnx8b2N1bHVzLmNvbQp8fG9jdWx1c2Nkbi5jb20KfHxyb2Nrc2RiLm9yZwpAQHx8aXA2LnN0YXRpYy5zbC1yZXZlcnNlLmNvbQp8fHBhcnNlLmNvbQp8fHRoZWZhY2Vib29rLmNvbQp8fHRocmVhZHMubmV0Cnx8d2hhdHNhcHAuY29tCnx8d2hhdHNhcHAubmV0Cnx8bGlua2VkaW4uY29tCgohIS0tIEFydGljbGVzCi5tZWRpdW0uY29tCnx8bWVkaXVtLmNvbQoKISEtLSBHUFQKfHxjaGF0Z3B0LmNvbQp8fG9wZW5haS5jb20KCiEtLS0tLS0tLS0tLS0tLS0tLS0tLS1FT0YtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=
+[AutoProxy 0.2.9]
+! Original:
+! https://github.com/gfwlist/gfwlist
+
+!-- || или . - ко всем поддоменам
+!-- | - только к указанному домену
+!-- @@ - исключение
+
+!!---Debug---
+|myip.com
+||myip.com
+
+!!---Socials---
+||accountkit.com
+cdninstagram.com
+||cdninstagram.com
+||f8.com
+||facebook.br
+.facebook.com
+||facebook.com
+@@||v6.facebook.com
+||facebook.design
+||connect.facebook.net
+||facebook.hu
+||facebook.in
+||facebook.nl
+||facebook.se
+||facebookmail.com
+||fb.com
+||fb.me
+||fb.watch
+||fbcdn.net
+||fbsbx.com
+||fbaddins.com
+||fbworkmail.com
+.instagram.com
+||instagram.com
+||m.me
+||messenger.com
+||oculus.com
+||oculuscdn.com
+||rocksdb.org
+@@||ip6.static.sl-reverse.com
+||parse.com
+||thefacebook.com
+||threads.net
+||whatsapp.com
+||whatsapp.net
+||linkedin.com
+
+!!-- Articles
+.medium.com
+||medium.com
+
+!!-- GPT
+||chatgpt.com
+||openai.com
+
+!---------------------EOF-----------------------
