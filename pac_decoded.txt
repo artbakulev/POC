@@ -64,6 +64,8 @@ cdninstagram.com
 |github.com
 ||github.com
 |api.github.com
+.github.com
+github.com
 ||api.github.com
 |default.exp-tas.com
 ||default.exp-tas.com
