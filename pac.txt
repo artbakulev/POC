@@ -6,6 +6,9 @@
 !-- | - только к указанному домену
 !-- @@ - исключение
 
+!!---Debug---
+||myip.com
+
 !!---Socials---
 ||accountkit.com
 cdninstagram.com
@@ -51,4 +54,5 @@ cdninstagram.com
 !!-- GPT
 ||chatgpt.com
 ||openai.com
+
 !---------------------EOF-----------------------
