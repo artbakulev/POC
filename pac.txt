@@ -1,59 +1,20 @@
-[AutoProxy 0.2.9]
-! Original:
-! https://github.com/gfwlist/gfwlist
-
-!-- || или . - ко всем поддоменам
-!-- | - только к указанному домену
-!-- @@ - исключение
-
-!!---Debug---
-|myip.com
-||myip.com
-
-!!---Socials---
-||accountkit.com
-cdninstagram.com
-||cdninstagram.com
-||f8.com
-||facebook.br
-.facebook.com
-||facebook.com
-@@||v6.facebook.com
-||facebook.design
-||connect.facebook.net
-||facebook.hu
-||facebook.in
-||facebook.nl
-||facebook.se
-||facebookmail.com
-||fb.com
-||fb.me
-||fb.watch
-||fbcdn.net
-||fbsbx.com
-||fbaddins.com
-||fbworkmail.com
-.instagram.com
-||instagram.com
-||m.me
-||messenger.com
-||oculus.com
-||oculuscdn.com
-||rocksdb.org
-@@||ip6.static.sl-reverse.com
-||parse.com
-||thefacebook.com
-||threads.net
-||whatsapp.com
-||whatsapp.net
-||linkedin.com
-
-!!-- Articles
-.medium.com
-||medium.com
-
-!!-- GPT
-||chatgpt.com
-||openai.com
-
-!---------------------EOF-----------------------
+W0F1dG9Qcm94eSAwLjIuOV0KISBPcmlnaW5hbDoKISBodHRwczovL2dpdGh1Yi5j
+b20vZ2Z3bGlzdC9nZndsaXN0CgohLS0gfHwg0LjQu9C4IC4gLSDQutC+INCy0YHQ
+tdC8INC/0L7QtNC00L7QvNC10L3QsNC8CiEtLSB8IC0g0YLQvtC70YzQutC+INC6
+INGD0LrQsNC30LDQvdC90L7QvNGDINC00L7QvNC10L3RgwohLS0gQEAgLSDQuNGB
+0LrQu9GO0YfQtdC90LjQtQoKISEtLS1EZWJ1Zy0tLQp8bXlpcC5jb20KfHxteWlw
+LmNvbQoKISEtLS1Tb2NpYWxzLS0tCnx8YWNjb3VudGtpdC5jb20KY2RuaW5zdGFn
+cmFtLmNvbQp8fGNkbmluc3RhZ3JhbS5jb20KfHxmOC5jb20KfHxmYWNlYm9vay5i
+cgouZmFjZWJvb2suY29tCnx8ZmFjZWJvb2suY29tCkBAfHx2Ni5mYWNlYm9vay5j
+b20KfHxmYWNlYm9vay5kZXNpZ24KfHxjb25uZWN0LmZhY2Vib29rLm5ldAp8fGZh
+Y2Vib29rLmh1Cnx8ZmFjZWJvb2suaW4KfHxmYWNlYm9vay5ubAp8fGZhY2Vib29r
+LnNlCnx8ZmFjZWJvb2ttYWlsLmNvbQp8fGZiLmNvbQp8fGZiLm1lCnx8ZmIud2F0
+Y2gKfHxmYmNkbi5uZXQKfHxmYnNieC5jb20KfHxmYmFkZGlucy5jb20KfHxmYndv
+cmttYWlsLmNvbQouaW5zdGFncmFtLmNvbQp8fGluc3RhZ3JhbS5jb20KfHxtLm1l
+Cnx8bWVzc2VuZ2VyLmNvbQp8fG9jdWx1cy5jb20KfHxvY3VsdXNjZG4uY29tCnx8
+cm9ja3NkYi5vcmcKQEB8fGlwNi5zdGF0aWMuc2wtcmV2ZXJzZS5jb20KfHxwYXJz
+ZS5jb20KfHx0aGVmYWNlYm9vay5jb20KfHx0aHJlYWRzLm5ldAp8fHdoYXRzYXBw
+LmNvbQp8fHdoYXRzYXBwLm5ldAp8fGxpbmtlZGluLmNvbQoKISEtLSBBcnRpY2xl
+cwoubWVkaXVtLmNvbQp8fG1lZGl1bS5jb20KCiEhLS0gR1BUCnx8Y2hhdGdwdC5j
+b20KfHxvcGVuYWkuY29tCgohLS0tLS0tLS0tLS0tLS0tLS0tLS0tRU9GLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0K
