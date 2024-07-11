@@ -61,4 +61,11 @@ cdninstagram.com
 ||copilot-proxy.githubusercontent.com
 |api.githubcopilot.com
 ||api.githubcopilot.com
+|github.com
+||github.com
+|api.github.com
+||api.github.com
+|default.exp-tas.com
+||default.exp-tas.com
+
 !---------------------EOF-----------------------
