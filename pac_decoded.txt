@@ -57,7 +57,8 @@ cdninstagram.com
 ||openai.com
 
 !!-- Github Copilot
+|copilot-proxy.githubusercontent.com
 ||copilot-proxy.githubusercontent.com
+|api.githubcopilot.com
 ||api.githubcopilot.com
-
 !---------------------EOF-----------------------
