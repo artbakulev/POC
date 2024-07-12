@@ -69,5 +69,22 @@ github.com
 ||api.github.com
 |default.exp-tas.com
 ||default.exp-tas.com
+|copilot-telemetry.githubusercontent.com/telemetry	Telemetry
+||copilot-telemetry.githubusercontent.com/telemetry	Telemetry
+|copilot-proxy.githubusercontent.com/
+||copilot-proxy.githubusercontent.com/
+|origin-tracker.githubusercontent.com
+||origin-tracker.githubusercontent.com
+|githubcopilot.com
+||githubcopilot.com
+
+!!-- Infra
+|registry.terraform.io
+||registry.terraform.io
+|releases.hashicorp.com
+||releases.hashicorp.com
+|jetbrains.com
+||jetbrains.com
+
 
 !---------------------EOF-----------------------
