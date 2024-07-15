@@ -7,7 +7,6 @@
 !-- @@ - исключение
 
 !!---Debug---
-|myip.com
 ||myip.com
 
 !!---Socials---
@@ -49,7 +48,6 @@ cdninstagram.com
 ||linkedin.com
 
 !!-- Articles
-.medium.com
 ||medium.com
 
 !!-- GPT
@@ -57,33 +55,17 @@ cdninstagram.com
 ||openai.com
 
 !!-- Github Copilot
-|copilot-proxy.githubusercontent.com
 ||copilot-proxy.githubusercontent.com
-|api.githubcopilot.com
-||api.githubcopilot.com
-|github.com
-||github.com
-|api.github.com
-.github.com
-github.com
-||api.github.com
-|default.exp-tas.com
-||default.exp-tas.com
-|copilot-telemetry.githubusercontent.com/telemetry	Telemetry
-||copilot-telemetry.githubusercontent.com/telemetry	Telemetry
-|copilot-proxy.githubusercontent.com/
-||copilot-proxy.githubusercontent.com/
-|origin-tracker.githubusercontent.com
-||origin-tracker.githubusercontent.com
-|githubcopilot.com
 ||githubcopilot.com
+||github.com
+||default.exp-tas.com
+||copilot-telemetry.githubusercontent.com
+||copilot-proxy.githubusercontent.com
+||origin-tracker.githubusercontent.com
 
 !!-- Infra
-|registry.terraform.io
-||registry.terraform.io
-|releases.hashicorp.com
-||releases.hashicorp.com
-|jetbrains.com
+||terraform.io
+||hashicorp.com
 ||jetbrains.com
 
 
