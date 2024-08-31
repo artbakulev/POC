@@ -68,6 +68,7 @@ cdninstagram.com
 !!-- YouTube
 ||googlevideo.com
 ||youtube.com
+||youtu.be
 
 
 !---------------------EOF-----------------------
