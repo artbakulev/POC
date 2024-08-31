@@ -55,18 +55,19 @@ cdninstagram.com
 ||openai.com
 
 !!-- Github Copilot
-||copilot-proxy.githubusercontent.com
+||githubusercontent.com
 ||githubcopilot.com
 ||github.com
-||default.exp-tas.com
-||copilot-telemetry.githubusercontent.com
-||copilot-proxy.githubusercontent.com
-||origin-tracker.githubusercontent.com
+||exp-tas.com
 
 !!-- Infra
 ||terraform.io
 ||hashicorp.com
 ||jetbrains.com
+
+!!-- YouTube
+||googlevideo.com
+||youtube.com
 
 
 !---------------------EOF-----------------------
