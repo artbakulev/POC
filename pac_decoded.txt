@@ -71,4 +71,8 @@ cdninstagram.com
 ||youtu.be
 
 
+!!-- Notion
+||notion.so
+||notion.com
+
 !---------------------EOF-----------------------
