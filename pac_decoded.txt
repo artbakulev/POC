@@ -75,4 +75,9 @@ cdninstagram.com
 ||notion.so
 ||notion.com
 
+!!-- Redis
+||redis.io
+||redis.com
+||redislabs.com
+
 !---------------------EOF-----------------------
