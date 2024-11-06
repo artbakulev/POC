@@ -80,4 +80,6 @@ cdninstagram.com
 ||redis.com
 ||redislabs.com
 
+!!-- Youtrack
+||youtrack.kts.studio
 !---------------------EOF-----------------------
