@@ -82,4 +82,6 @@ cdninstagram.com
 
 !!-- Youtrack
 ||youtrack.kts.studio
+||cloudfront.net
+||jb.gg
 !---------------------EOF-----------------------
